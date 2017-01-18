@@ -1,0 +1,27 @@
+p, .container-fluid {
+margin-right: 10%;
+margin-left: 10%;
+padding-bottom: 20px;
+text-align: center;
+}
+.quote-box {
+  border-radius:3px;
+  position:relative;
+  margin:5% auto 10% auto;
+  width:450px;
+  padding:60px 60px;
+  display:table;
+  background-color: lightgrey;
+}
+footer {
+ min-height: 91.8vh;
+ padding-top: 20px;
+ padding-bottom: 1px;
+ background-color: black;
+ font-color: white;
+}
+section {
+  min-height: 91.8vh;
+  font-size: 18px;
+  font-weight: 300;
+}
